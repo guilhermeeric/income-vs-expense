@@ -1,5 +1,6 @@
 {
   "name": "income-expense-tracker",
+  "homepage": "https://guilhermeeric.github.io/income-vs-expense/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
